@@ -14,17 +14,20 @@
             <nav>
                 <ul>
                     <asp:Panel ID="customerNav" runat="server" Visible="false"> 
-                        <li><a href="#">Customer</a></li>
-                        <li><a href="#"></a></li>
+                        <li><a href="OrderSupplement.aspx">Order Supplement</a></li>
+                        <li><a href="History.aspx">History</a></li>
                         <li><a href="Profile.aspx">Profile</a></li>
                         <li><a href="#" onclick="Logout_Click">Logout</a></li>
                     </asp:Panel>
                     <asp:Panel ID="adminNav" runat="server" Visible="false">
-                        <li><a href="#">Admin</a></li>
-                        <li><a href="#" onclick="Logout_Click">Logout</a></li>
+                        <li><a href="Home.aspx">Home</a></li>
+                        <li><a href="ManageSupplememt.aspx">Manage Supplement</a></li>
+                        <li><a href="OrderQueue.aspx">Order Queue</a></li>
                         <li><a href="Profile.aspx">Profile</a></li>
+                        <li><a href="TransactionReport.aspx">TransactionReport</a></li>
+                        <li><a href="#" onclick="Logout_Click">Logout</a></li>
 
-                    </asp:Panel>
+                    </asp:Panel>    
                 </ul>
             </nav>
         </div>
