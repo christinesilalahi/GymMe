@@ -18,7 +18,7 @@
           <Key>
             <PropertyRef Name="SupplementID" />
           </Key>
-          <Property Name="SupplementID" Type="int" Nullable="false" />
+          <Property Name="SupplementID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="SupplementName" Type="varchar" MaxLength="100" Nullable="false" />
           <Property Name="SupplementExpiryDate" Type="date" Nullable="false" />
           <Property Name="SupplementPrice" Type="int" Nullable="false" />
@@ -29,13 +29,13 @@
             <PropertyRef Name="SupplementTypeID" />
           </Key>
           <Property Name="SupplementTypeID" Type="int" Nullable="false" />
-          <Property Name="SupplementTypeName" Type="int" Nullable="false" />
+          <Property Name="SupplementTypeName" Type="varchar" MaxLength="100" Nullable="false" />
         </EntityType>
         <EntityType Name="MsUser">
           <Key>
             <PropertyRef Name="UserID" />
           </Key>
-          <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserID" Type="int" Nullable="false" />
           <Property Name="UserName" Type="varchar" MaxLength="100" Nullable="false" />
           <Property Name="UserEmail" Type="varchar" MaxLength="100" Nullable="false" />
           <Property Name="UserDOB" Type="date" Nullable="false" />
@@ -184,7 +184,7 @@
           <Key>
             <PropertyRef Name="SupplementID" />
           </Key>
-          <Property Name="SupplementID" Type="Int32" Nullable="false" />
+          <Property Name="SupplementID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="SupplementName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="SupplementExpiryDate" Type="DateTime" Nullable="false" Precision="0" />
           <Property Name="SupplementPrice" Type="Int32" Nullable="false" />
@@ -198,14 +198,14 @@
             <PropertyRef Name="SupplementTypeID" />
           </Key>
           <Property Name="SupplementTypeID" Type="Int32" Nullable="false" />
-          <Property Name="SupplementTypeName" Type="Int32" Nullable="false" />
+          <Property Name="SupplementTypeName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
           <NavigationProperty Name="MsSupplements" Relationship="Self.FK_MsSupplement_ToMsSupplementType" FromRole="MsSupplementType" ToRole="MsSupplement" />
         </EntityType>
         <EntityType Name="MsUser">
           <Key>
             <PropertyRef Name="UserID" />
           </Key>
-          <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserID" Type="Int32" Nullable="false" />
           <Property Name="UserName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="UserEmail" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="UserDOB" Type="DateTime" Nullable="false" Precision="0" />

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.9.34728.123
+VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROJECT PSD LAB", "PROJECT PSD LAB\PROJECT PSD LAB.csproj", "{26EE0B44-EF16-42DD-9D65-6482B5B28003}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROJECT PSD LAB", "PROJECT PSD LAB\PROJECT PSD LAB.csproj", "{5ED012EE-CFD8-4EE6-B8EA-A298C4067F9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{26EE0B44-EF16-42DD-9D65-6482B5B28003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26EE0B44-EF16-42DD-9D65-6482B5B28003}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26EE0B44-EF16-42DD-9D65-6482B5B28003}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26EE0B44-EF16-42DD-9D65-6482B5B28003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED012EE-CFD8-4EE6-B8EA-A298C4067F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED012EE-CFD8-4EE6-B8EA-A298C4067F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED012EE-CFD8-4EE6-B8EA-A298C4067F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED012EE-CFD8-4EE6-B8EA-A298C4067F9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {79EF562D-047B-4923-BC85-CC2B54113052}
+		SolutionGuid = {088D3E5D-FD9E-4C33-BEF3-0C4F4512E93D}
 	EndGlobalSection
 EndGlobal

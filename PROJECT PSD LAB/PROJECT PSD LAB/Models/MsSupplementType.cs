@@ -21,7 +21,7 @@ namespace PROJECT_PSD_LAB.Models
         }
     
         public int SupplementTypeID { get; set; }
-        public int SupplementTypeName { get; set; }
+        public string SupplementTypeName { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<MsSupplement> MsSupplements { get; set; }

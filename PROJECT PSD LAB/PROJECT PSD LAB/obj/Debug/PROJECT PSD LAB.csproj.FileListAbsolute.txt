@@ -1,135 +1,65 @@
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.csproj.AssemblyReference.cache
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.dll.config
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.pdb
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.exe
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.exe.config
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.rsp
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.exe
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.exe.config
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.rsp
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Buffers.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Memory.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Numerics.Vectors.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.exe
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.exe.config
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.rsp
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\VBCSCompiler.exe
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.SqlServer.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.xml
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.SqlServer.xml
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT .8656F9D1.Up2Date
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.dll
-C:\Users\ASUS\Desktop\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.pdb
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.dll.config
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.pdb
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.exe
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.exe.config
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.rsp
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.exe
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.exe.config
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.rsp
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Managed.Core.targets
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Buffers.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Collections.Immutable.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Memory.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Numerics.Vectors.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Reflection.Metadata.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Threading.Tasks.Extensions.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.exe
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.exe.config
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.rsp
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\VBCSCompiler.exe
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\VBCSCompiler.exe.config
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.SqlServer.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.xml
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.SqlServer.xml
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.csproj.AssemblyReference.cache
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.csproj.CoreCompileInputs.cache
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT .8656F9D1.Up2Date
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.dll
-D:\College\College\4th Semester\Pattern Software Design\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.pdb
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.dll.config
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.pdb
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.exe
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.exe.config
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.rsp
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.exe
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.exe.config
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.rsp
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Buffers.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Memory.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Numerics.Vectors.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.exe
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.exe.config
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.rsp
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\VBCSCompiler.exe
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.SqlServer.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.xml
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.SqlServer.xml
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.csproj.AssemblyReference.cache
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT .8656F9D1.Up2Date
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.dll
-C:\Users\ASUS\Documents\GitHub\GymMe-1\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.pdb
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.dll.config
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\PROJECT PSD LAB.pdb
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.exe
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.exe.config
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csc.rsp
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.exe
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.exe.config
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\csi.rsp
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.AppContext.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Console.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.IO.Compression.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Net.Http.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.ValueTuple.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.exe
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.exe.config
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\vbc.rsp
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\VBCSCompiler.exe
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.SqlServer.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.xml
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\EntityFramework.SqlServer.xml
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.csproj.AssemblyReference.cache
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.csproj.CoreCompileInputs.cache
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT .8656F9D1.Up2Date
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\obj\Debug\PROJECT PSD LAB.pdb
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\Newtonsoft.Json.dll
+C:\Users\andry\Downloads\PROJECT PSD LAB\PROJECT PSD LAB\bin\Newtonsoft.Json.xml
